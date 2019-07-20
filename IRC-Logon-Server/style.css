@@ -1,0 +1,62 @@
+/* import fonts */
+@import url('https://fonts.googleapis.com/css?family=Raleway:800|Source+Code+Pro:600');
+
+.center {
+    /* Center everything*/
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+body {
+    /* Set default font and background colour */
+    background-color: #39393A;
+    font-family: 'Source Code Pro', monospace;
+}
+
+img {
+    /* Change size of image */
+    width: 25%;
+    height: auto;
+}
+
+h1 {
+    /* Change font and add synamic size */
+    font-family: 'Raleway', sans-serif;
+    color: #faa916;
+    font-weight: 900;
+    letter-spacing: 1px;
+    font-size: 300%;
+}
+
+p {
+    /* Change colours and add synamic size */
+    color: #E6E6E6;
+    font-size: 200%;
+}
+
+a:link {
+    /* Applies to all unvisited links */
+    text-decoration: none;
+    color: #E6E6E6;
+}
+
+a:visited {
+    /* Applies to all visited links */
+    text-decoration: none;
+    color: #E6E6E6;
+}
+
+a:hover {
+    /* Applies to links under the pointer */
+    text-decoration: underline;
+    color: #faa916;
+}
+
+a:active {
+    /* Applies to activated links */
+    text-decoration: underline;
+    color: #E6E6E6;
+}

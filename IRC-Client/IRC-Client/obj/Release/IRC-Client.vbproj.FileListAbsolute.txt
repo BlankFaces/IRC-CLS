@@ -1,0 +1,14 @@
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Release\IRC-Client.exe.config
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Release\IRC-Client.exe
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Release\IRC-Client.pdb
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Release\IRC-Client.xml
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC_Client.forgotForm.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC_Client.loginMenu.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC_Client.registerForm.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC_Client.resetForm.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC_Client.Resources.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC-Client.vbproj.GenerateResource.cache
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC-Client.vbproj.CoreCompileInputs.cache
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC-Client.exe
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC-Client.xml
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Release\IRC-Client.pdb

@@ -1,0 +1,42 @@
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Debug\IRC-Client.exe.config
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Debug\IRC-Client.exe
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Debug\IRC-Client.pdb
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Debug\IRC-Client.xml
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC_Client.Resources.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.vbproj.GenerateResource.cache
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.vbproj.CoreCompileInputs.cache
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.exe
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.xml
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.pdb
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC_Client.loginMenu.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC_Client.forgotForm.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC_Client.registerForm.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC_Client.resetForm.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Debug\IRC-Client.exe.manifest
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\bin\Debug\IRC-Client.application
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.exe.manifest
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.application
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC-Client.vbprojAssemblyReference.cache
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC_Client.ircForm.resources
+C:\Home\Projects\IRC-CaLS\IRC-Client\IRC-Client\obj\Debug\IRC_Client.settingsForm.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.vbprojAssemblyReference.cache
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC_Client.ircForm.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC_Client.settingsForm.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC_Client.forgotForm.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC_Client.loginMenu.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC_Client.registerForm.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC_Client.resetForm.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC_Client.Resources.resources
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.vbproj.GenerateResource.cache
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.vbproj.CoreCompileInputs.cache
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.exe
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.xml
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.pdb
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\bin\Debug\IRC-Client.exe.config
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\bin\Debug\IRC-Client.exe.manifest
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\bin\Debug\IRC-Client.application
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\bin\Debug\IRC-Client.exe
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\bin\Debug\IRC-Client.pdb
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\bin\Debug\IRC-Client.xml
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.exe.manifest
+C:\Users\epann\Desktop\Project Code\IRC-Client\IRC-Client\obj\Debug\IRC-Client.application

@@ -1,0 +1,28 @@
+<html>
+	<head>
+		<meta http-equiv="content-type" content="text/html; charset=windows-1252">
+		<title>IRC-CaLS</title>
+		<link rel="stylesheet" href="style.css">
+		<link rel="icon" href="logo.ico">
+	</head>
+
+	<body>
+		<div class="center">
+			<img src="logo.png">
+			<h1 class="thicc">IRC-CaLS</h1>
+			<p><a href="IRC-Setup.zip">Download</a></p>
+			<p>IP: <a id="irc" href=""></a></p>
+		</div>
+	
+		<script type="text/javascript">
+			function SetIrcIP() {
+				var ip = location.host;
+				e = document.getElementById("irc");
+				e.setAttribute("href", "irc://" + ip + ":6697");
+				e.innerHTML = ip;
+			}
+
+			window.onload = SetIrcIP();
+		</script>
+	</body>
+</html>

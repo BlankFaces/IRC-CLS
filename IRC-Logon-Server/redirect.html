@@ -1,0 +1,15 @@
+<html>
+    <head>
+		<title>Redirecting</title>
+	</head>
+	
+	<body>
+		<p>Redirecting...</p>
+		<script>
+			var ip = location.host;
+			var res = ip.split(":");
+			ip = res[0]
+			window.location = "http://" + ip + ":80";
+		</script>
+	</body>
+</html>

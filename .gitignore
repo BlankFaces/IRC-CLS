@@ -1,0 +1,7 @@
+/IRC-Logon-Server/serverFiles/server.db
+/IRC-Logon-Server/serverFiles/server.log
+/IRC-Logon-Server/serverFiles/login.conf
+/IRC-Logon-Server/Configs/*.conf
+IRC-Client/IRC-Client/publish/
+pseudocode.cs
+/.idea/
