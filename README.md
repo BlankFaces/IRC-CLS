@@ -1,1 +1,2 @@
-IRC-CLS
+# IRC-CLS
+Check out the docx file to see the documentation, this was my college project which I worked on during the latter end of college, looking back now, I should of made it more easier to setup as you would have to have technical knowledge to setup the server, and to set the ip of that server in the client, when I should of added an option for this, however this was the largest project I had worked on and was over ambisious however still got the fundimentals of an IRC client and fully coded the login server however without the ssl being added.
